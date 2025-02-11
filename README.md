@@ -21,7 +21,7 @@
 - **Data Structures & Algorithms** 📊  
 - **Digital Design**  
 - **Python for Automation & MATLAB Scripting**
-- 
+  
 ### 📫 **Get in Touch!**
 📧 Email: royaishik05@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/royaishik/  
